@@ -41,6 +41,12 @@ ScaffoldingReadMe.txt
 *~
 CodeCoverage/
 
+# Copilot local indices
+/CopilotIndices/
+
+# Visual Studio local workspace files
+/.vs/
+
 # MSBuild Binary and Structured Log
 *.binlog
 

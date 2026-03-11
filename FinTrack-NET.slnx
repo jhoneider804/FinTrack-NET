@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FinTrack.Api/FinTrack.Api.csproj" />
+  </Folder>
+</Solution>
